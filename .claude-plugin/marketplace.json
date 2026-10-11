@@ -1,0 +1,12 @@
+{
+  "name": "social-post-skills",
+  "description": "Social post skills for Claude Code",
+  "owner": { "name": "Nikita Spitsyn", "url": "https://github.com/nickspiz" },
+  "plugins": [
+    {
+      "name": "social-post-skills",
+      "source": "./",
+      "description": "One skill per network plus shared rules: how to pick topics, keep facts honest, write for each network and check a draft before it goes out."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "social-post-skills",
+  "version": "0.1.0",
+  "description": "Skills for writing, picking and checking social posts for a product or a founder: LinkedIn, X, Bluesky, Threads, Instagram, Telegram and Reddit.",
+  "author": {
+    "name": "Nikita Spitsyn",
+    "email": "hello@nickspiz.com",
+    "url": "https://github.com/nickspiz"
+  },
+  "homepage": "https://github.com/nickspiz/social-post-skills",
+  "repository": "https://github.com/nickspiz/social-post-skills",
+  "license": "MIT",
+  "keywords": ["social-media", "writing", "linkedin", "x", "bluesky", "threads", "instagram", "telegram", "reddit", "skills"],
+  "supportUrl": "https://github.com/nickspiz/social-post-skills/issues",
+  "privacyPolicyUrl": "https://github.com/nickspiz/social-post-skills#privacy"
+}
