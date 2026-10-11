@@ -28,7 +28,7 @@ A bit slower and more conversational than X. The audience tends to read replies 
 
 ## Form
 
-- Limit: 300 characters per post. Aim well under. Some posts are one sentence.
+- Limit: 300 graphemes (visual characters) per post. Aim well under. Some posts are one sentence. Note: graphemes count differently than Unicode characters; emoji built from multiple code points count as one grapheme.
 - Plain text. No Unicode "bold" letters. Emoji: at most one.
 - Links are rendered as cards, so a link can sit at the end. Use one only when it is the point.
 - Hashtags: skip.
@@ -36,7 +36,7 @@ A bit slower and more conversational than X. The audience tends to read replies 
 
 ## Images
 
-- Up to four images per post. Alt text is expected here, and people notice when it is missing. Describe what is actually on the picture.
+- Up to 4 images per post (images and video cannot be combined). Alt text is expected here, and people notice when it is missing. Describe what is actually on the picture. Alt text limit is 2,000 characters per image.
 - Personal account: plain real screenshot. Brand account: designed image with real product UI. See `post-basics`, section 6.
 - An image is fine on every post when you have a good one. Do not force it.
 
@@ -55,3 +55,5 @@ Bluesky rewrite:
 > Small change in Pinecone Shop this week: the cart now survives a closed tab. Handy if your customers like to sleep on a purchase.
 
 Same single fact (saved carts), new shape. "Handy if..." is a framing, not a new claim. Check that it stays one.
+
+Checked: https://postfa.st/sizes/bluesky/feed/2025 (Oct 2026), Bluesky API docs

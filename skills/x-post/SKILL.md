@@ -17,7 +17,7 @@ Human and plain. A person talking, not a campaign. Personal account in first per
 
 ## Form
 
-- Length: the limit on a standard account is 280 characters. Aim well under it. Part of the posts should be one sentence only. Medium posts are fine, long ones are rare. Threads only when the content really needs steps.
+- Length: Free accounts are limited to 280 characters per post. X Premium allows 4,000 characters, and X Premium+ allows 25,000 characters. Aim well under the limit. Part of the posts should be one sentence only. Medium posts are fine, long ones are rare. Threads only when the content really needs steps.
 - **No Unicode "bold" or "italic" letters.** They break search and screen readers. Make emphasis with structure: line breaks, a short list, one strong sentence on its own line.
 - Emoji: at most one per post, often none.
 - Hashtags: none.
@@ -26,6 +26,7 @@ Human and plain. A person talking, not a campaign. Personal account in first per
 
 ## Images
 
+- Up to 4 images per post on all account types (free, Premium, and Premium+). Image quality benefits on Premium accounts due to reduced compression.
 - Images are not required. Alternate: one post with an image, the next without.
 - Personal account: plain real screenshot. Brand account: a designed image with real product UI. See `post-basics`, section 6.
 - Always add alt text.
@@ -54,3 +55,5 @@ Facts: "Pinecone Shop now has saved carts (changelog, 3 March)."
 > Saved carts are live in Pinecone Shop. Close the tab, come back tomorrow, the cart is still there.
 
 A one-sentence post like this is normal. Do not pad it.
+
+Checked: https://docs.x.com (developer docs), https://postfa.st/sizes/x/posts (Oct 2026)

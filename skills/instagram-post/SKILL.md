@@ -23,7 +23,7 @@ On Instagram the image is the post and the caption is the support. Decide the pi
 ## Carousels
 
 - One idea per slide. Slide 1 is the hook: the point, not a title page. The last slide is a plain takeaway, not "follow for more".
-- 3-7 slides is a good range. The platform allows many more; long carousels lose people.
+- Maximum 20 slides per carousel. A good range is 3-7 slides; long carousels lose people.
 - Same layout, same margins, same type size on every slide, so the swipe feels like one thing.
 - Every claim on a slide follows the facts list. Do not put a number on a slide that is not in it.
 - Do not mention in the caption slides that are not in the carousel.
@@ -34,7 +34,7 @@ On Instagram the image is the post and the caption is the support. Decide the pi
 - The first line shows before "more": put the point there.
 - Length: 1-4 short lines is fine. Longer only when the content is a real how-to. The hard limit is 2,200 characters.
 - Emoji: one or two is normal here, not a wall.
-- Hashtags: few or none. The platform has been cutting how many it counts; check the current limit before adding any. Never a block of 20.
+- Hashtags: maximum 30 hashtags per post. The platform has been cutting reach with hashtag blocks; use few or none for better performance.
 - Links in captions are not clickable. Say where to find it ("link in bio") only if the bio link really leads there.
 
 ## Topics
@@ -55,3 +55,5 @@ Slide 2: "Close the tab." Slide 3: "Come back tomorrow." Slide 4: "Everything's 
 Caption: "Saved carts are live in Pinecone Shop. Nothing to turn on."
 
 "Nothing to turn on" is only allowed if the facts list says so.
+
+Checked: https://growthscribe.com/instagram-caption-character-limit/ (Oct 2026), Instagram API docs

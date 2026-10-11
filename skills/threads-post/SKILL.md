@@ -17,7 +17,7 @@ Casual and human, the closest to how people talk. First person on a personal acc
 
 ## Form
 
-- Limit: 500 characters. Most posts should be far shorter. A good share is one sentence.
+- Limit: 500 characters. Most posts should be far shorter. A good share is one sentence. Threads also allows a free 10,000-character text attachment.
 - Plain text. No Unicode "bold" letters. Emoji: at most one.
 - Threads allows one topic tag per post. Skip it unless it genuinely helps, and never stack tags.
 - Links: one at most, only when it is the point.
@@ -28,7 +28,7 @@ Casual and human, the closest to how people talk. First person on a personal acc
 
 - A brand account does not post to Threads text-only. Give it a designed picture with real product UI inside, or hold the post until there is one.
 - A personal account: plain real screenshot on some posts, many posts as text. See `post-basics`, section 6.
-- A carousel is fine when each picture carries one clear step. Add alt text.
+- A carousel with up to 10 images/videos is fine when each picture carries one clear step. Add alt text.
 
 ## Topics
 
@@ -45,3 +45,5 @@ Facts: "Pinecone Shop saved carts, shipped 3 March."
 > Asked myself today why carts empty out when someone closes a tab. Fixed it: they don't anymore.
 
 Check the facts: "asked myself today" is a claim about the author's day. Only keep it if the author said so. A safe version is "Carts in Pinecone Shop no longer empty when you close the tab."
+
+Checked: https://postfa.st/sizes/threads/posts (Oct 2026)
