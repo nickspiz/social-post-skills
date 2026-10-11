@@ -23,7 +23,7 @@ On Instagram the image is the post and the caption is the support. Decide the pi
 ## Carousels
 
 - One idea per slide. Slide 1 is the hook: the point, not a title page. The last slide is a plain takeaway, not "follow for more".
-- Maximum 20 slides per carousel. A good range is 3-7 slides; long carousels lose people.
+- 3-7 slides is a good range. Check the current slide maximum in Instagram Help; long carousels lose people.
 - Same layout, same margins, same type size on every slide, so the swipe feels like one thing.
 - Every claim on a slide follows the facts list. Do not put a number on a slide that is not in it.
 - Do not mention in the caption slides that are not in the carousel.
@@ -32,9 +32,9 @@ On Instagram the image is the post and the caption is the support. Decide the pi
 
 - Voice: warm and plain. Brand: "we". Personal: "I".
 - The first line shows before "more": put the point there.
-- Length: 1-4 short lines is fine. Longer only when the content is a real how-to. The hard limit is 2,200 characters.
+- Length: 1-4 short lines is fine. Longer only when the content is a real how-to. Meta's API documentation caps a caption at 2,200 characters; check Instagram Help for the current in-app limit.
 - Emoji: one or two is normal here, not a wall.
-- Hashtags: maximum 30 hashtags per post. The platform has been cutting reach with hashtag blocks; use few or none for better performance.
+- Hashtags: few or none. Check the current hashtag limit in Instagram Help before adding any. Never a block of 20.
 - Links in captions are not clickable. Say where to find it ("link in bio") only if the bio link really leads there.
 
 ## Topics
@@ -56,4 +56,4 @@ Caption: "Saved carts are live in Pinecone Shop. Nothing to turn on."
 
 "Nothing to turn on" is only allowed if the facts list says so.
 
-Checked: https://growthscribe.com/instagram-caption-character-limit/ (Oct 2026), Instagram API docs
+Checked 11.10.2026: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media (caption cap of 2,200 characters for API publishing). Slide and hashtag limits for the app could not be confirmed in official docs, so no number is given.

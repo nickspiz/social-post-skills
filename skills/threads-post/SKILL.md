@@ -17,7 +17,7 @@ Casual and human, the closest to how people talk. First person on a personal acc
 
 ## Form
 
-- Limit: 500 characters. Most posts should be far shorter. A good share is one sentence. Threads also allows a free 10,000-character text attachment.
+- Limit: 500 characters. Most posts should be far shorter. A good share is one sentence. The Threads API also documents text attachments of up to 10,000 characters for long-form text.
 - Plain text. No Unicode "bold" letters. Emoji: at most one.
 - Threads allows one topic tag per post. Skip it unless it genuinely helps, and never stack tags.
 - Links: one at most, only when it is the point.
@@ -28,7 +28,7 @@ Casual and human, the closest to how people talk. First person on a personal acc
 
 - A brand account does not post to Threads text-only. Give it a designed picture with real product UI inside, or hold the post until there is one.
 - A personal account: plain real screenshot on some posts, many posts as text. See `post-basics`, section 6.
-- A carousel with up to 10 images/videos is fine when each picture carries one clear step. Add alt text.
+- A carousel (Threads allows up to 20 images or videos) is fine when each picture carries one clear step. Add alt text.
 
 ## Topics
 
@@ -46,4 +46,4 @@ Facts: "Pinecone Shop saved carts, shipped 3 March."
 
 Check the facts: "asked myself today" is a claim about the author's day. Only keep it if the author said so. A safe version is "Carts in Pinecone Shop no longer empty when you close the tab."
 
-Checked: https://postfa.st/sizes/threads/posts (Oct 2026)
+Checked 11.10.2026: https://developers.facebook.com/docs/threads/posts (500 characters, carousel of 2 to 20 items), https://developers.facebook.com/documentation/threads/create-posts/text-attachments (10,000 characters)

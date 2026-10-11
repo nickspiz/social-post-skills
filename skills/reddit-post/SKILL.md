@@ -62,3 +62,5 @@ First post, profile:
 > Hi, I'm Alex. I've been making a small app for dog walkers called Pinecone Walks. Mostly here to read and learn how other people do it. If you have a tool that you actually use daily, I'd like to hear what it is.
 
 This invents a name, an app and a stated wish. In real use every statement here comes from the author. The facts list decides.
+
+Checked 11.10.2026: https://www.reddit.com/dev/api (title up to 300 characters)

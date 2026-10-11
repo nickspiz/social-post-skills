@@ -81,7 +81,7 @@ The skills end with a human-writing check. The checklist they point to is [blade
 
 ## Limits and formatting change
 
-Character limits and features differ between networks and change over time. The numbers in the skills are the ones I know of as of October 2026, and I have not re-checked every one against the platforms' documentation. If one is wrong or out of date, please open an issue with a link to the platform's documentation.
+Character limits and features differ between networks and change over time. The numbers in the skills were checked against official platform documentation on 11.10.2026; where a number could not be confirmed there, the skill tells you to check the platform's help instead. If one is wrong or out of date, please open an issue with a link to the platform's documentation.
 
 ## Questions and ideas
 

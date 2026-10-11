@@ -21,7 +21,7 @@ Friendly, direct, a little more energetic than elsewhere. Brand channel: "we". P
 - **Bold and italic for emphasis.** Use HTML parse mode, because it needs less escaping than Markdown. Tags: `<b>`, `<i>`, `<u>`, `<s>`, `<a href="...">`, `<code>`, `<pre>`, `<blockquote>`.
 - Escape `<`, `>` and `&` in plain text as `&lt;`, `&gt;` and `&amp;`, or the message will be rejected.
 - Short paragraphs, one blank line between them.
-- Length: a message holds up to 4096 characters. A caption under an image holds far less (1024 on a regular account), so count first. Most posts should be a screen or less.
+- Length: a message holds up to 4096 characters. A caption under an image holds far less (1024 in the Bot API; check Telegram for the in-app limit), so count first. Most posts should be a screen or less.
 - Rotate formats: a list of picks, a mini guide in steps, an opinion on confirmed news, a question to subscribers, before and after, a screenshot with a short breakdown.
 - A short link preview is fine. Do not post three links in a row.
 
@@ -57,3 +57,5 @@ Close the tab, come back tomorrow, the cart is still there.
 
 Details in the <a href="https://example.com/changelog">changelog</a>.
 ```
+
+Checked 11.10.2026: https://core.telegram.org/bots/api (4096 characters per message, 1024 per caption, supported HTML tags and escaping)

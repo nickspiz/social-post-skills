@@ -21,7 +21,7 @@ A post for a personal profile or a company page. Not for X, Threads or Bluesky: 
 ## Form
 
 - Length: 400-1200 characters is the sweet spot. One-line posts are fine now and then. The platform allows 3,000 characters maximum, but long is rarely better.
-- The first two lines decide everything, because the feed cuts the post after roughly 200 characters behind "see more". Put the point there, not a greeting.
+- The first two lines decide everything, because the feed cuts a long post behind "see more". Put the point there, not a greeting.
 - Short paragraphs, one blank line between them. No walls of text.
 - Plain text. Do not use fake bold made of Unicode letters: it breaks search and screen readers.
 - Emoji: none or one. No emoji bullets.
@@ -55,4 +55,4 @@ Facts given: "Pinecone Shop added saved carts on 3 March. Source: changelog."
 
 The last sentence invents a reason, and it is not in the facts. Cut it, or ask the author whether it is true. That is the guard working.
 
-Checked: https://linkedinpreview.com/blog/linkedin-post-character-limit-2026 (Oct 2026)
+Checked 11.10.2026: https://learn.microsoft.com/en-us/linkedin/marketing/community-management/shares/ugc-post-api (3,000 characters). The cut-off point behind "see more" is not documented officially, so no number is given.
